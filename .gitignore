@@ -1,0 +1,6 @@
+.env
+/data
+/temp
+*.rar
+*.zip
+*.txt
