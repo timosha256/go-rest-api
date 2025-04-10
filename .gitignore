@@ -1,6 +1,6 @@
-.env
 /data
 /temp
+.env
 *.rar
 *.zip
 *.txt
